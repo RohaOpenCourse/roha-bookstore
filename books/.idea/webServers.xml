@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ffd0ce1e-6d5d-4561-b540-20c64321597e" name="Reg Server" url="http://10.129.9.2">
+        <fileTransfer host="10.129.9.2" port="2222" rootFolder="/var/www/html/registrar" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
